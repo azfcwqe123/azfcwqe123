@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azfcwqe123&layout=donut-vertical)](https://github.com/azfcwqe123/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azfcwqe123&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azfcwqe123_b)](https://solved.ac/azfcwqe123_b/)
 <!--
 **azfcwqe123/azfcwqe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
